@@ -1,3 +1,14 @@
+Metadata-Version: 2.1
+Name: mlProject
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/AjaykumarKothapally/CoffeeQuality_MLOPS
+Author: AjaykumarKothapally
+Author-email: a.kothapally@nitcoinc.in
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/AjaykumarKothapally/CoffeeQuality_MLOPS/issues
+Platform: UNKNOWN
+
 # End-to-end-Machine-Learning-Project-with-MLflow
 
 ## Workflows
@@ -156,3 +167,5 @@ MLflow
 - Its Production Grade
 - Trace all of your expriements
 - Logging & tagging your model
+
+
